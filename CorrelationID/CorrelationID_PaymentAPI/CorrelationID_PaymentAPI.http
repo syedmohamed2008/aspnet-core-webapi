@@ -1,0 +1,6 @@
+@CorrelationID_PaymentAPI_HostAddress = http://localhost:5265
+
+GET {{CorrelationID_PaymentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

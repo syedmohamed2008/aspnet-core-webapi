@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CorrelationID/CorrelationID.csproj" />
+  <Project Path="CorrelationID_PaymentAPI/CorrelationID_PaymentAPI.csproj" />
+</Solution>

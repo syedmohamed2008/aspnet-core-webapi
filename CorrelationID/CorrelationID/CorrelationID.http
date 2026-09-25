@@ -1,0 +1,6 @@
+@CorrelationID_HostAddress = http://localhost:5062
+
+GET {{CorrelationID_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
